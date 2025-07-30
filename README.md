@@ -37,5 +37,3 @@ Cette application utilise la bibliothèque QRCode.js qui est chargée depuis CDN
 Ce projet est sous licence MIT.
 
 ---
-
-Créé avec ❤️ pour Anna
